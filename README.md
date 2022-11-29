@@ -3,7 +3,7 @@
 <h6 align="center">I am passionate about technology, innovation and love big challenging tasks on my to do list.</h6>
     <img
       align="right"
-      src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+      src="https://webbuildinfotech.com/wp-content/uploads/2022/07/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif"
       alt="Coding"
       width="400"
     />
