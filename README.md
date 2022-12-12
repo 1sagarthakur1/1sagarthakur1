@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Thakur</h1>
 <h3 align="center">A passionate Java Backend Developer from India</h3>
-<h6 align="center">I am passionate about technology, innovation and love big challenging tasks on my to do list.</h6>
+<h6 align="center">I am passionate about technology, innovation and love big challenging tasks on my to do list. I’m a professional back-end developer. I have knowledge
+about JAVA, HTML, CSS, Mysql, and javascript.</h6>
     <img
       align="right"
       src="https://webbuildinfotech.com/wp-content/uploads/2022/07/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif"
@@ -19,7 +20,7 @@
 
 - 📫 How to reach me sagarthakur5710@gmail.com
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ghsMfczIBtfTwmFSS-Pg2bUhxhqphpe6/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kKfLT-ds5TxLybgPbZuxx_tmDjny3At1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
