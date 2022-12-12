@@ -19,7 +19,7 @@
 
 - 📫 How to reach me sagarthakur5710@gmail.com
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1kWtniBkRn0xtqdLa5KlodeAQwOoGzOhAMhzLKCx4Yd4/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ghsMfczIBtfTwmFSS-Pg2bUhxhqphpe6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
