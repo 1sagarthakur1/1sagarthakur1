@@ -6,7 +6,7 @@ about JAVA, HTML, CSS, Mysql, and javascript.</h6>
       align="right"
       src="https://webbuildinfotech.com/wp-content/uploads/2022/07/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif"
       alt="Coding"
-      width="400"
+      width="370"
       hight="370"
     />
 
@@ -24,7 +24,7 @@ about JAVA, HTML, CSS, Mysql, and javascript.</h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sagar-singh-thakur-982400230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagar-singh-thakur-982400230/" style="height:30; width:40;"/></a>
+<a href="https://www.linkedin.com/in/sagar-singh-thakur-982400230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagar-singh-thakur-982400230/" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
