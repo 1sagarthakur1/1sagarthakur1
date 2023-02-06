@@ -41,7 +41,7 @@ about JAVA, HTML, CSS, Mysql, and javascript.</h6>
 <br>
     
 📊 My Github Stats
-<p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=1sagarthakur1&show_icons=true&locale=en&layout=compact" alt="1sagarthakur1" /></p>
+<p><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=1sagarthakur1&show_icons=true&locale=en&layout=compact" alt="1sagarthakur1" /></p>
 
 <p>&nbsp;<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=1sagarthakur1&show_icons=true&locale=en" alt="1sagarthakur1" /></p>
 
