@@ -38,8 +38,9 @@ about JAVA, HTML, CSS, Mysql, and javascript.</h6>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="90" height="90" style="padding:5px;"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="90" style="padding:5px;"/> </a> 
 
 <br>
+<hr>
 <br>
-    
+
 📊 My Github Stats
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=1sagarthakur1&show_icons=true&locale=en&layout=compact" alt="1sagarthakur1" />
 
