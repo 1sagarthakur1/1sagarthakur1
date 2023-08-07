@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagar Thakur</h1>
 <h3 align="center">A passionate Java Backend Developer from India</h3>
-<h6 align="center">I am passionate about technology, innovation and love big challenging tasks on my to do list. I’m a professional back-end developer. I have knowledge
+<h6 align="center">I am passionate about technology, and innovation and love big challenging tasks on my to-do list. I’m a professional back-end developer. I have knowledge
 about JAVA, HTML, CSS, Mysql, and javascript.</h6>
     <img
       align="right"
