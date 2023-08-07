@@ -32,7 +32,7 @@ about JAVA, HTML, CSS, Mysql, and javascript.</h6>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-5728485-4781249.png?f=webp" alt="html5" width="90" height="90" style="padding:5px;"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/premium/thumb/css-file-6867957-5607413.png" alt="css3" width="90" height="90" style="padding:5px;"/> </a> 
-<a href="https://cdn3d.iconscout.com/3d/premium/thumb/java-script-file-6460811-5326838.png" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/premium/thumb/java-script-file-6460811-5326838.png" alt="javascript" width="90" height="90" style="padding:5px;"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/premium/thumb/java-script-file-6460811-5326838.png" alt="javascript" width="90" height="90" style="padding:5px;"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/java-icon-images/java-icon-images-5.jpg" alt="java" width="90" height="90" style="padding:5px;"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.iconshock.com/image/Diamond/Database/mysql" alt="mysql" width="90" height="90" style="padding:5px;"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/K9Jf-N8RWHDw2IZSY_vjSfIVm2X6jGN9riRIAK9nl_BgJxpYK2VQWQl-yPlCtBUTNasw=w240-h480-rw" alt="spring" width="90" height="90" style="padding:5px;"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="90" style="padding:5px;"/> </a> 
@@ -42,7 +42,7 @@ about JAVA, HTML, CSS, Mysql, and javascript.</h6>
 <br>
 
 📊 My Github Stats
-<p><img box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=1sagarthakur1&show_icons=true&locale=en&layout=compact" 
+<p><img style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=1sagarthakur1&show_icons=true&locale=en&layout=compact" 
  alt="1sagarthakur1" />
 
 &nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=1sagarthakur1&show_icons=true&locale=en" alt="1sagarthakur1" /></p>
