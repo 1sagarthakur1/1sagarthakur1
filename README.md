@@ -30,7 +30,7 @@ about JAVA, HTML, CSS, Mysql, and javascript.</h6>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-5728485-4781249.png?f=webp" alt="html5" width="90" height="90" style="padding:5px;"/> <p>Html</p> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-5728485-4781249.png?f=webp" alt="html5" width="90" height="90" style="padding:5px;"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/premium/thumb/css-file-6867957-5607413.png" alt="css3" width="90" height="90" style="padding:5px;"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/premium/thumb/java-script-file-6460811-5326838.png" alt="javascript" width="90" height="90" style="padding:5px;"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/java-icon-images/java-icon-images-5.jpg" alt="java" width="90" height="90" style="padding:5px;"/> </a>
