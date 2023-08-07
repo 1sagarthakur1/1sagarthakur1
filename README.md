@@ -24,7 +24,7 @@ about JAVA, HTML, CSS, Mysql, and javascript.</h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sagar-singh-thakur-982400230/" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-logo-5476201-4602452.png" alt="https://www.linkedin.com/in/sagar-singh-thakur-982400230/" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/sagar-singh-thakur-982400230/" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-logo-5476201-4602452.png" alt="https://www.linkedin.com/in/sagar-singh-thakur-982400230/" height="90" width="90"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
