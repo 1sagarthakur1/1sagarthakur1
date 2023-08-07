@@ -32,10 +32,10 @@ about JAVA, HTML, CSS, Mysql, and javascript.</h6>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-5728485-4781249.png?f=webp" alt="html5" width="90" height="90" style="padding:5px;"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/premium/thumb/css-file-6867957-5607413.png" alt="css3" width="90" height="90" style="padding:5px;"/> </a> 
-<a href="https://static.vecteezy.com/system/resources/previews/012/697/298/original/3d-javascript-logo-design-free-png.png" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="90" height="90" style="padding:5px;"/> </a> 
+<a href="https://cdn3d.iconscout.com/3d/premium/thumb/java-script-file-6460811-5326838.png" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="90" height="90" style="padding:5px;"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/java-icon-images/java-icon-images-5.jpg" alt="java" width="90" height="90" style="padding:5px;"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.iconshock.com/image/Diamond/Database/mysql" alt="mysql" width="90" height="90" style="padding:5px;"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="90" height="90" style="padding:5px;"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="90" style="padding:5px;"/> </a> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/K9Jf-N8RWHDw2IZSY_vjSfIVm2X6jGN9riRIAK9nl_BgJxpYK2VQWQl-yPlCtBUTNasw=w240-h480-rw" alt="spring" width="90" height="90" style="padding:5px;"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="90" style="padding:5px;"/> </a> 
 
 <br>
 <hr>
