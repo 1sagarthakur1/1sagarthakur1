@@ -20,7 +20,7 @@ about JAVA, HTML, CSS, Mysql, and javascript.</h6>
 
 - 📫 How to reach me sagarthakur5710@gmail.com
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-tU8qHFngNbiYTBHBkEjkAdV8D0HogXO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cY3DCC8RPUEoyPe051p3crc4I7qAMrNq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
